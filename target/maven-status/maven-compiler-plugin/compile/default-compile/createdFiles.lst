@@ -1,0 +1,6 @@
+module-info.class
+com\mycompany\discordserver\SecundaryController.class
+com\mycompany\discordserver\PrimaryController$1.class
+com\mycompany\discordserver\PrimaryController.class
+com\mycompany\discordserver\App.class
+model\Draw.class

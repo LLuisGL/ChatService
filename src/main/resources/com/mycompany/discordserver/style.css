@@ -1,0 +1,117 @@
+/*Login*/
+.btn_conectar{
+    -fx-background-color: linear-gradient(to right, #06BFFF, #2C73FF);
+    -fx-text-fill: #FFF7FF;
+    -fx-font-weight: bold;
+    -fx-font: 18px Arial;
+}
+
+.background{
+    -fx-background-color: linear-gradient(to top, #191A1E, #212328);
+}
+
+.background_sesion{
+    -fx-background-color: linear-gradient(to top, #2A2C31, #212328);
+}
+
+.textfield_nombre{
+    -fx-background-color: #32353C;
+    -fx-text-fill: #FFFFFF;
+    -fx-font: 12px Arial;
+}
+
+.textfield_mensaje{
+    -fx-background-color: #32353C;
+    -fx-text-fill: #FFFFFF;
+    -fx-font: 16px Arial;
+}
+
+.txt_nombre{
+    -fx-text-fill: #FFFFFF;
+    -fx-font: 26px Arial;
+    -fx-font-weight: bold;
+}
+
+.signin_login{
+    -fx-text-fill: #1999FF;
+    -fx-font: 12px Arial;
+    -fx-font-weight: bold;
+}
+.generallabel_login{
+    -fx-text-fill: #AFAFAF;
+    -fx-font: 12px Arial;
+}
+.check-box .box {
+	-fx-background-color: #32353C;
+	-fx-border-color: #32353C;;
+	-fx-border-radius: 0; 
+}
+.check-box .mark {
+    -fx-shape: "M1.73,12.91 8.1,19.28 22.79,4.59 22.79,1.59 8.1,16.28 1.73,9.91";
+}
+.check-box:selected .mark {
+   -fx-background-color: rgb(255, 255, 255);
+}
+.check-box:selected .box {
+   -fx-background-color: #32353C;;
+}
+.textfield_login{
+    -fx-background-color: #32353C;
+    -fx-text-fill: #FFFFFF;
+    -fx-font: 16px Arial bold;
+}
+.close_login{
+    -fx-background-color: #212328;
+    -fx-text-fill: #616E76;
+    -fx-font: 16px Arial;
+}
+.close_login:hover{
+    -fx-background-color: #E22A27;
+    -fx-text-fill: #FFFFFF;
+}
+.btn_close{
+    -fx-background-color: none;
+    -fx-text-fill: #FFFFFF;
+    -fx-font: 16px Arial;
+    -fx-border-radius: 0;
+}
+.btn_close:hover{
+    -fx-background-color: #e22a27;
+}
+.scroll-pane .viewport{
+    -fx-background-color: transparent;
+}
+
+.scroll-pane {
+    -fx-background-color: transparent;
+}
+
+.scroll-bar:vertical {
+    -fx-background-color: transparent;
+}
+
+.close_var{
+    -fx-background-color: #191A1E;
+}
+
+.btn_menubar{
+    -fx-background-color: #191A1E;
+    -fx-text-fill: #FFFFFF;
+    -fx-font: 16px Arial;
+}
+
+.btn_menubar:hover{
+    -fx-background-color: #2c2e33;
+}
+
+.btn_menubar_activo{
+    -fx-background-color: #2c2e33;
+    -fx-text-fill: #FFFFFF;
+    -fx-font: 16px Arial;
+}
+
+/*PAINT SECUNDARY*/
+
+.canvas{
+    -fx-background-color: #FFFFFF;
+}
